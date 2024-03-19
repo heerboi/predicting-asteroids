@@ -15,3 +15,4 @@ Technologies used:
 3. Creating preprocessing pipelines and machine learning models: **Scikit-Learn** (might update to PyTorch later)
 
 
+**Dataset Link**: https://github.com/blakelobato/Predicting-Asteroid-DiameterDash/blob/master/model/Pred_Ast_Diam_2.csv
